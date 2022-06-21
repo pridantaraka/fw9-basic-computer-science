@@ -1,0 +1,7 @@
+1. start
+2. siapkan secangkir teh dan secangkir kopi
+3. ambil 1 cangkir kosong untuk memindahkan minuman
+4. pindahkan teh kedalam cangkir kosong
+5. pindahkan kopi kedalam cangkir teh
+6. pindahkan teh kedalam cangkir kopi sebelumnya yang sudah kosong
+7. end

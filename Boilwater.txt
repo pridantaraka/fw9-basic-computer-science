@@ -1,0 +1,14 @@
+1. start
+2. siapkan panci
+3. taruh panci di bawah keran air
+4. hidupkan keran air
+5. tunggu air keran ada secukupnya dalam panci
+6. panci sudah berisi air secukupnya
+7. matikan keran air
+8. bawa panci yang berisi air ke kompor
+9. hidupkan kompor
+10. tunggu hingga air dalam panci mendidih
+11. air dalam panci sudah mendidih
+12. matikan kompor
+13. air sudah matang
+14. end

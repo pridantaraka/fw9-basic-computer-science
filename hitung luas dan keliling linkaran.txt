@@ -1,0 +1,9 @@
+1.start
+2. masukkan rumus luas lingkaran dan keliling lingkaran
+3. masukan jari - jari lingkaran
+4. hitung luas lingkaran dengan dngan mengikuti rumus lingkaran p*angka jari jari lingkaran*angka jari jari lingkaran 
+5. hasil luas lingkaran
+6. hitung keliling lingkaran dengan mengikuti rumus 2*p* angka jari-jari lingkaran
+7. hasil keliling lingkaran
+8. end
+

@@ -1,0 +1,9 @@
+1. start
+2. masukan nilai x
+3. masukan nilai y
+4. bandingkan nilai x dan y
+5. if x > y
+6. then nilai x lebih besar
+7. else 
+8. then y lebih besar
+9. end
